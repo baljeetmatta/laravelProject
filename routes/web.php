@@ -18,7 +18,7 @@ Blade
 
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('test');
 });
 
 Route::prefix("page")->group(function(){
