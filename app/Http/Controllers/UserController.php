@@ -47,3 +47,26 @@ class UserController extends Controller
 
     }
 }
+/*
+
+1. CREATE A DATABASE
+   create a database in mysql 
+
+2. DATABASE MIGRATION
+   creating database -> tables
+   Database first approach -> my tables
+   Code First Approach -> Tables->laravel->db update(create, changes)
+   Table Changes->
+    Table up/down
+3. SEEDING
+     <Tables->
+        <empty-></empty->
+     </Tables->
+     Seeders ->Real/fake
+
+     Factory ->Fake Data
+
+4. MODEL
+    Classes for each Table
+
+*/
